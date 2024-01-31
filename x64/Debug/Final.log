@@ -1,0 +1,7 @@
+﻿  Covid_Management.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdv_driverspecs.h(1,1): warning C4821: Unable to determine Unicode encoding type, please save the file with signature (BOM)
+C:\Users\Reh1t\source\repos\Final\Covid_Management.cpp(166,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\sdv_driverspecs.h(1,1): warning C4821: Unable to determine Unicode encoding type, please save the file with signature (BOM)
+  Generating Code...
+  Final.vcxproj -> C:\Users\Reh1t\source\repos\Final\x64\Debug\Final.exe
